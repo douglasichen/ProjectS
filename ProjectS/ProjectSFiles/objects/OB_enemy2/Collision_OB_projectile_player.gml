@@ -1,0 +1,1 @@
+hitpoint -= 1
